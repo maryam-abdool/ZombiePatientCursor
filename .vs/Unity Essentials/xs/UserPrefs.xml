@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C00E5F54-172B-5731-3A34-37A7B91F2CC4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/InputUDP.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" Line="14" Column="1" />
+      <File FileName="Assets/BallTransform.cs" />
+      <File FileName="Assets/HelloWorld2.cs" />
+      <File FileName="Assets/EthanScript.cs" />
+      <File FileName="Assets/BodyScript.cs" />
+      <File FileName="Assets/InputUDP.cs" Line="127" Column="19" />
+      <File FileName="Assets/HeadScript.cs" Line="17" Column="1" />
+      <File FileName="Assets/SendUDP.cs" Line="129" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity Essentials" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="InputUDP.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdec1e5f-5fb8-4179-9bd7-ae9a8855d082" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
